@@ -7,6 +7,7 @@ This repository showcases an advanced, automated system designed for large-scale
 
 The Impact
 By re-engineering the provisioning architecture, this project delivered immediate operational and financial improvements:
+
 Efficiency: Achieved an 80% reduction in processing time, enabling high-velocity throughput without manual oversight.
 Profitability: Optimized the operational cost structure by eliminating dependencies on costly third-party vendors, directly driving a 1.2% increase in project net profitability.
 Reliability: Built a robust, scalable system capable of maintaining high success rates in environments with complex security and validation challenges.
