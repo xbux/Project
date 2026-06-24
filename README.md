@@ -4,7 +4,9 @@ High-Concurrency User Provisioning Engine
 
 Overview
 
-This repository showcases an advanced, automated system designed for large-scale user provisioning and identity management. The engine was developed to streamline high-volume account registration workflows, transforming manual, resource-heavy processes into a highly efficient, automated pipeline.
+This repository showcases an advanced, automated system designed for large-scale user provisioning and identity management.
+
+The engine was developed to streamline high-volume account registration workflows, transforming manual, resource-heavy processes into a highly efficient, automated pipeline.
 
 The Impact
 
