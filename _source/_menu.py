@@ -1,7 +1,7 @@
 import asyncio, os
 
 
-NAME_ = ('  Heasi´s MS account factory \n')
+NAME_ = (' MS account factory \n')
 
 class _MENU_:
     def __init__(self):
